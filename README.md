@@ -1,2 +1,0 @@
-# fullstack
-HTML,CSS,JS
